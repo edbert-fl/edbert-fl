@@ -1,4 +1,4 @@
-# Hey, I'm Edbert 👋
+# Hey, I'm Edbert <img src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif" hspace="10" alt="Panda Waving" align="right" width="200" />
 
 I'm a developer studying at the University of Sydney, and I love creating great digital products.
 
