@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hey, I'm Edbert 👋
 
-<!--
-**edbert-fl/edbert-fl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer studying at the University of Sydney, and I love creating great digital products.
 
-Here are some ideas to get you started:
+- Check out my [website](https://edbert-fl.github.io) to learn more about me.
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/edbert-fl/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 My Tools
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+**Frontend Development:** `React` `React Native` `Bootstrap` `SASS` `Jinja`
+
+**Version Control:** `Git` `Gitlab`
+
+**Backend Development:** `NodeJS` `PostgreSQL` `Firebase` `Flask`
+
+**Testing:** `PyTest` `JUnit` `Postman` `Jest`
+
+**Others:** `R` `Scrum` `Jira`
+
+## 📫 Contact
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/edbert-fl/) or email me at [edbert.fl@gmail.com](mailto:edbert.fl@gmail.com).
